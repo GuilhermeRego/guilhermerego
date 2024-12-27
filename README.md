@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Currently pursuing a Bachelor's degree in Informatics and Computing Engineering at the Faculty of Engineering of University of Porto (FEUP)
-- 🔭 **Interests:** Mainly focused on Front-End development, but I am also a Game Development enthusiast.
+- 🔭 **Interests:** Mainly focused on Back-end development, but I am also a Game Development enthusiast.
 - 💫 **Planning My Future:** I plan to pursue a Master's degree in Software Engineering after completing my Bachelor's. I am also considering participating in an ERASMUS exchange programme.
 - 🎮 **Hobbies**: Gaming, playing volleyball, watching football and learning new things.
 - ⚡ **Fun Fact:** I have loved playing video games since I was a kid, and since then, I've always wanted to create my own games, which inspired me to pursue a career in computer science ever since.
