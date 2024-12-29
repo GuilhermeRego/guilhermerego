@@ -44,5 +44,5 @@
 ## 📞 Contact Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/guilherme-rego-a34952258/)
-- 📄 CV available soon!
+- 📄 [CV](https://guilhermerego.github.io/)
 - 📧 [Email](mailto:guilhermesilveirarego@gmail.com)
